@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /var/www/LoveDb
+cd /var/www/LoveDB
 
 
 source /etc/environment
